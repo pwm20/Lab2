@@ -10,6 +10,7 @@ public class Test {
 				System.out.print( i + ", ");
 			else
 				System.out.print(i + ".");
+		}
     }
 
 }
